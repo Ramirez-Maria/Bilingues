@@ -1,0 +1,274 @@
+body{
+  background-color: #DFEBE9;
+  margin: 0;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+img {
+width: 50%;
+height:auto;
+display: inline-block;
+
+
+}
+
+ul {
+    margin: 0;
+    border:0;
+    display: inline-block;
+
+  }
+
+li {
+  display: inline-block;
+}
+
+.link {
+  color: white;
+  padding: 20px;
+  margin: 0;
+  border: 0;
+  text-decoration: none;
+}
+
+.link:hover{
+  color:#769fcd;
+}
+
+
+.nombre{
+  color: white;
+
+}
+
+.nombre:hover{
+  color: #769fcd;
+}
+
+.top-nav{
+  background-color: black;
+  width: auto;
+}
+
+.menu{
+  padding-top: 10px;
+  display: inline-block;
+  margin: 0 0 0 10%;
+}
+
+.name{
+  background-color: black;
+  margin: 0 20% 0 0;
+  padding-left: 2%;
+  display: inline-block;
+}
+
+.texto{
+  display: inline-block;
+  margin-top: 10rem;
+  margin-left: 60px;
+  margin-bottom: 90px;
+  width: 500px;
+}
+
+.p-index{
+  font-size: 1.5rem;
+}
+
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 2.5rem;
+  margin-top: 5rem;
+
+}
+
+.p-footer{
+  margin: 0;
+  padding: 8px;
+}
+
+.contactanos-botton{
+  text-decoration: none;
+  background-color: #769fcd;
+  border-radius: 5rem;
+  color:black;
+  font-weight: bold;
+}
+
+/**********************************contactanos*********************/
+.top-nombre{
+  text-decoration: none;
+  color: white;
+}
+
+.top-nombre:hover{
+  color: #769fcd;
+}
+
+.h1{
+  font-size: 60px;
+}
+
+.parrafo{
+  font-size: 25px;
+}
+
+.contacto-info{
+  font-size: 25px;
+}
+
+.barra {
+  border-style: dotted;
+  border-color: #769fcd;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: 10px;
+  width: 20%;
+  margin-bottom: 50px;
+}
+
+.contenedor-info {
+  background-color: #DFEBE9;
+  color:black;
+  text-align: center;
+}
+
+.subdiv {
+  padding-top: 0;
+  display: inline-block;
+}
+
+.contactanos{
+  padding: 20px;
+}
+
+button{
+  margin-bottom: 30px;
+}
+
+.form-container{
+  width: 40%;
+  padding-top: 0;
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  bottom: 16rem;
+  left: 3rem;
+  border: solid white;
+}
+
+.tel-image{
+  width: 5rem;
+}
+
+.Ubicacion{
+  width: 7rem;
+}
+
+/****************************** ID selectors******************/
+
+#electronico{
+  width: 16%;
+}
+
+#tel{
+  width: 16%;
+}
+
+
+
+/************quienes somos**********/
+
+.quienes-somos-container{
+  position: relative;
+  top: 0rem;
+  padding: 2rem;
+}
+
+.h1-somos{
+  font-size: 3rem;
+
+}
+
+.h3-somos{
+  font-size: 1.5rem;
+  padding-top: 3rem;
+
+}
+
+.p-somos{
+  font-size: 1.3rem;
+
+}
+
+.img-somos1{
+  float: left;
+  width: 40%;
+
+
+}
+
+.img-somos2{
+  float: right;
+  width: 40%;
+}
+
+.valores-container{
+  margin-top: 8rem;
+}
+
+/*****************Cursos Container***********/
+
+.h1-cursos{
+  padding: 3rem 0 3rem 0;
+}
+.p-cursos{
+  font-size: 1.8rem;
+  padding-top: 1rem;
+}
+table {
+  text-align: center;
+  margin: 0 20rem;
+
+
+
+
+}
+td{
+width: 35%;
+padding: 2rem;
+border: solid #769fcd;
+font-weight: bold;
+font-size: 1rem;
+background-color:  #d6e6f2;
+}
+
+
+th{
+  font-size: 2rem;
+  border: solid #769fcd;
+  background-color: #b9d7ea;
+}
+
+/*************social************/
+.socialmedia-logo{
+  width: 3rem;
+}
+
+.social{
+  font-weight: bolder;
+}
+
+.socialmedia{
+  width: 40%;
+display: inline-block;
+position: relative;
+left: 10rem;
+bottom: 10rem;
+}
