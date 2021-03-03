@@ -1,6 +1,11 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
 body{
   background-color: #DFEBE9;
   margin: 0;
+  margin-bottom: 40px;
   text-align: center;
   width: auto;
   height: auto;
@@ -84,7 +89,8 @@ footer{
   text-align: center;
   height: 2.5rem;
   margin-top: 5rem;
-
+  bottom: 0;
+  width: 100%;
 }
 
 .p-footer{
